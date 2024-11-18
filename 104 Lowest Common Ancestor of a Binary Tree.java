@@ -1,12 +1,8 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- * int val;
- * TreeNode left;
- * TreeNode right;
- * TreeNode(int x) { val = x; }
- * }
- */
+// Time Complexity : 0(n)
+// Space Complexity : O(n)
+// Did this code successfully run on Leetcode : Yes
+// Any problem you faced while coding this : No
+
  //aesha
  class Solution {
     List<TreeNode> pathp;
